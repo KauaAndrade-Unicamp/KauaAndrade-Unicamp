@@ -130,7 +130,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KauaAndrade-Unicamp&repo=Projeto-Recanto&theme=vue&hide_border=true&bg_color=00000000" />
   </a>
   <a href="https://github.com/KauaAndrade-Unicamp/projeto-social">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KauaAndrade-Unicamp&repo=projeto-exemplo-2&theme=vue&hide_border=true&bg_color=00000000" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KauaAndrade-Unicamp&repo=projeto-social2&theme=vue&hide_border=true&bg_color=00000000" />
   </a>
 </div>
 
@@ -148,7 +148,7 @@
   <a href="https://www.linkedin.com/in/KauaAndrade-Unicamp/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:seu-email@example.com" target="_blank">
+  <a href="mailto:kauaestudosprog@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
