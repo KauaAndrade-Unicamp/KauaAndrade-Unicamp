@@ -130,7 +130,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KauaAndrade-Unicamp&repo=Projeto-Recanto&theme=vue&hide_border=true&bg_color=00000000" />
   </a>
   <a href="https://github.com/KauaAndrade-Unicamp/projeto-social">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KauaAndrade-Unicamp&repo=projeto-social2&theme=vue&hide_border=true&bg_color=00000000" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KauaAndrade-Unicamp&repo=projeto-social&theme=vue&hide_border=true&bg_color=00000000" />
   </a>
 </div>
 
