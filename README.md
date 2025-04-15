@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Borda superior com efeito geométrico -->
-  <div style="width:100%; height:5px; background: linear-gradient(90deg, #2ecc71, #27ae60, #2ecc71, #27ae60); background-size: 400% 400%; animation: gradient 15s ease infinite;"></div>
+  <div style="width:100%; height:5px; background: linear-gradient(90deg, #2ecc71, #27ae60, #2ecc71, #27ae60);"></div>
   
   <h1 align="center">Kauã Andrade</h1>
   <h3 align="center">Desenvolvedor | Estudante Unicamp</h3>
@@ -108,13 +108,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KauaAndrade-Unicamp&theme=vue&hide_border=true&background=00000000&stroke=2ecc71&ring=27ae60&fire=27ae60&currStreakNum=27ae60&sideNums=27ae60&currStreakLabel=2ecc71&sideLabels=2ecc71&dates=27ae60" />
 </div>
 
-<!-- Snake animation -->
+<!-- Gráfico de contribuição -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KauaAndrade-Unicamp/KauaAndrade-Unicamp/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KauaAndrade-Unicamp/KauaAndrade-Unicamp/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KauaAndrade-Unicamp/KauaAndrade-Unicamp/output/github-contribution-grid-snake.svg">
-  </picture>
+  <h3>Contribuições</h3>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KauaAndrade-Unicamp&theme=vue" />
 </div>
 
 <!-- Divisor estilizado -->
@@ -148,7 +145,7 @@
   <a href="https://www.linkedin.com/in/KauaAndrade-Unicamp/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:kauaestudosprog@gmail.com" target="_blank">
+  <a href="mailto:seu-email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
@@ -159,13 +156,4 @@
 </div>
 
 <!-- Borda inferior com efeito geométrico -->
-<div style="width:100%; height:5px; background: linear-gradient(90deg, #2ecc71, #27ae60, #2ecc71, #27ae60); background-size: 400% 400%; animation: gradient 15s ease infinite;"></div>
-
-<!-- Estilo animação CSS -->
-<style>
-@keyframes gradient {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
+<div style="width:100%; height:5px; background: linear-gradient(90deg, #2ecc71, #27ae60, #2ecc71, #27ae60);"></div>
