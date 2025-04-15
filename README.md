@@ -1,109 +1,171 @@
 <div align="center">
-  <!-- Borda superior com gradiente -->
-  <div style="width:100%; height:2px; background: linear-gradient(90deg, transparent, #2ecc71 25%, #3498db 75%, transparent)"></div>
-  <div style="width:100%; height:1px; background: linear-gradient(90deg, transparent, #2ecc71 25%, #3498db 75%, transparent); margin-top:3px;"></div>
+  <!-- Borda superior com efeito geométrico -->
+  <div style="width:100%; height:5px; background: linear-gradient(90deg, #2ecc71, #27ae60, #2ecc71, #27ae60); background-size: 400% 400%; animation: gradient 15s ease infinite;"></div>
   
   <h1 align="center">Kauã Andrade</h1>
   <h3 align="center">Desenvolvedor | Estudante Unicamp</h3>
   
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2ecc71&center=true&vCenter=true&width=440&lines=Desenvolvedor+Full+Stack;Sistema+de+Informação;Sempre+em+Evolução" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=2ecc71&center=true&vCenter=true&width=440&lines=Desenvolvedor+Full+Stack;C/C%2B%2B+Enthusiast;Python+Explorer;JavaScript+Craftsman" />
+  </p>
+
+  <!-- Badge contador de visitantes -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=KauaAndrade-Unicamp&style=for-the-badge&color=2ecc71" alt="Contador de Visitas" />
   </p>
 </div>
 
 <p align="center">
-  Olá 👋 Sou Kauã, desenvolvedor e estudante da Unicamp, apaixonado por resolver problemas complexos e criar soluções através do código. Busco constantemente aprimorar minhas habilidades e explorar novas tecnologias.
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500" />
 </p>
 
+<p align="center">
+  Olá 👋 Sou Kauã, desenvolvedor e estudante da Unicamp, focado em criar soluções elegantes para problemas complexos. Minha jornada inclui explorar desde linguagens de baixo nível como C/C++ até o desenvolvimento web moderno com React e Node.js.
+</p>
+
+<!-- Cards de estatísticas com design hexagonal -->
 <div align="center">
   <a href="https://github.com/KauaAndrade-Unicamp">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauaAndrade-Unicamp&show_icons=true&theme=transparent&hide_border=true&count_private=true&text_color=3498db&title_color=2ecc71&icon_color=3498db" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaAndrade-Unicamp&layout=compact&theme=transparent&hide_border=true&text_color=3498db&title_color=2ecc71" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauaAndrade-Unicamp&show_icons=true&theme=vue&hide_border=true&count_private=true&bg_color=00000000&include_all_commits=true&rank_icon=github" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaAndrade-Unicamp&layout=compact&theme=vue&hide_border=true&bg_color=00000000" />
   </a>
 </div>
 
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #2ecc71, #3498db, transparent);">
+<!-- Divisor estilizado -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
+</p>
 
-<h2 align="center">🛠️ Tecnologias & Ferramentas</h2>
+<h2 align="center">⚡ Tech Stack</h2>
 
-<!-- Gráfico de linguagens em formato donut -->
+<!-- Stack de tecnologias em layout inovador -->
 <div align="center">
-  <h3>Minhas Linguagens</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaAndrade-Unicamp&layout=donut&theme=transparent&hide_border=true&text_color=3498db&title_color=2ecc71" width="350px" />
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+        <br>C
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+        <br>C++
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+        <br>HTML
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+        <br>CSS
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
+        <br>VSCode
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+        <br>Linux
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="center">
-  <h4>Linguagens de Programação</h4>
-  <p>
-    <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  </p>
-  
-  <h4>Frontend</h4>
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  </p>
-  
-  <h4>Backend & Frameworks</h4>
-  <p>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  </p>
+<!-- Divisor estilizado -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
+</p>
 
-  <h4>Ferramentas & Ambiente</h4>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </p>
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<!-- Gráfico de contribuições estilizado -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KauaAndrade-Unicamp&theme=vue&hide_border=true&background=00000000&stroke=2ecc71&ring=27ae60&fire=27ae60&currStreakNum=27ae60&sideNums=27ae60&currStreakLabel=2ecc71&sideLabels=2ecc71&dates=27ae60" />
 </div>
 
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #3498db, #2ecc71, transparent);">
-
-<!-- Gráfico de contribuição -->
-<h2 align="center">📊 Meu Progresso</h2>
-
+<!-- Snake animation -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KauaAndrade-Unicamp&theme=transparent&hide_border=true&stroke=3498db&ring=2ecc71&fire=2ecc71&currStreakNum=3498db&sideNums=3498db&currStreakLabel=2ecc71&sideLabels=2ecc71&dates=3498db" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KauaAndrade-Unicamp/KauaAndrade-Unicamp/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KauaAndrade-Unicamp/KauaAndrade-Unicamp/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KauaAndrade-Unicamp/KauaAndrade-Unicamp/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
+<!-- Divisor estilizado -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
+</p>
+
+<h2 align="center">🧠 Projetos em Destaque</h2>
+
+<!-- Cards de repositórios em layout inovador -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KauaAndrade-Unicamp&theme=nord&no-frame=true&margin-w=10&column=6" />
+  <a href="https://github.com/KauaAndrade-Unicamp/projeto-exemplo-1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KauaAndrade-Unicamp&repo=projeto-exemplo-1&theme=vue&hide_border=true&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/KauaAndrade-Unicamp/projeto-exemplo-2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KauaAndrade-Unicamp&repo=projeto-exemplo-2&theme=vue&hide_border=true&bg_color=00000000" />
+  </a>
 </div>
 
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #2ecc71, #3498db, transparent);">
+<!-- Divisor estilizado -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
+</p>
 
-<h2 align="center">🔍 Atividade</h2>
-
-<!-- Gráfico de distribuição de linguagens em formato pie -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaAndrade-Unicamp&layout=pie&theme=transparent&hide_border=true&text_color=3498db&title_color=2ecc71" width="400px" />
-</div>
-
-<div align="center">
-  <!-- Gráfico de contribuição -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=KauaAndrade-Unicamp&bg_color=transparent&color=3498db&line=2ecc71&point=3498db&area=true&hide_border=true" width="800px" />
-</div>
-
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #3498db, #2ecc71, transparent);">
-
-<h2 align="center">📫 Contato</h2>
+<h2 align="center">📫 Conecte-se Comigo</h2>
 
 <div align="center">
   <a href="https://github.com/KauaAndrade-Unicamp" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/KauaAndrade-Unicamp/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:seu-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
-<!-- Borda inferior com gradiente -->
+<!-- Terminal typing effect -->
 <div align="center">
-  <div style="width:100%; height:1px; background: linear-gradient(90deg, transparent, #3498db 25%, #2ecc71 75%, transparent); margin-top:30px;"></div>
-  <div style="width:100%; height:2px; background: linear-gradient(90deg, transparent, #3498db 25%, #2ecc71 75%, transparent); margin-top:3px;"></div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=2ecc71&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!" />
 </div>
+
+<!-- Borda inferior com efeito geométrico -->
+<div style="width:100%; height:5px; background: linear-gradient(90deg, #2ecc71, #27ae60, #2ecc71, #27ae60); background-size: 400% 400%; animation: gradient 15s ease infinite;"></div>
+
+<!-- Estilo animação CSS -->
+<style>
+@keyframes gradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
