@@ -7,7 +7,7 @@
   <h3 align="center">Desenvolvedor | Estudante Unicamp</h3>
   
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2ecc71&center=true&vCenter=true&width=440&lines=Desenvolvedor+Full+Stack;Ciência+da+Computação;Sempre+em+Evolução" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2ecc71&center=true&vCenter=true&width=440&lines=Desenvolvedor+Full+Stack;Sistema+de+Informação;Sempre+em+Evolução" />
   </p>
 </div>
 
