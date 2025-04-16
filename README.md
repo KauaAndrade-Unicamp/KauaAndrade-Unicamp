@@ -23,18 +23,20 @@
   Olá 👋 Sou Kauã, desenvolvedor e estudante da Unicamp, focado em criar soluções elegantes para problemas complexos. Minha jornada inclui explorar desde linguagens de baixo nível como C/C++ até o desenvolvimento web moderno com React e Node.js.
 </p>
 
-<!-- Cards de estatísticas com design hexagonal -->
+<!-- Cards de estatísticas simplificados -->
 <div align="center">
-  <a href="https://github.com/KauaAndrade-Unicamp">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauaAndrade-Unicamp&show_icons=true&theme=vue&hide_border=true&count_private=true&bg_color=00000000&include_all_commits=true&rank_icon=github" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaAndrade-Unicamp&layout=compact&theme=vue&hide_border=true&bg_color=00000000" />
+  <!-- Nota: Substitua "KauaAndrade-Unicamp" pelo seu nome de usuário real no GitHub -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauaAndrade-Unicamp&show_icons=true&theme=vue&hide_border=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaAndrade-Unicamp&layout=compact&theme=vue&hide_border=true" />
   </a>
 </div>
-
 <!-- Divisor estilizado -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
-</p>
+</
 
 <h2 align="center">⚡ Tech Stack</h2>
 
